@@ -2,7 +2,7 @@
 <extension type="module" version="3.1.0" client="site" method="upgrade">
 	<name>Multi Campus Display</name>
 	<version>0.0.1</version>
-    <description><![CDATA[<p>Multi Campus for Joomla 3.1.x. Created by <a href="http://gottalottamarketing.com/" target="_blank">GottaLotta Marketing</a>.</p>]]></description>
+    <description><![CDATA[<p>Multi Campus for Joomla 3.1.x. Created by <a href="https://blackbricksoftware.com/" target="_blank">Black Brick Software</a>.</p>]]></description>
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
     <author>Black Brick Software LLC</author>
 	<authorEmail>david@blackbricksoftware.com</authorEmail>
